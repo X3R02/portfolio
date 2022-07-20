@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/X3R02/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Alonso Medina Hernandez <x3r02mail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/X3R02/portfolio/issues"
+  },
+  "homepage": "https://github.com/X3R02/portfolio#readme"
+}
